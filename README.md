@@ -1,7 +1,13 @@
-### 首先您需要V-P-N的支持
-[推荐使用HideU](https://hidcdn.com/?f=dm9F7)，不限流量，不限速，价格实惠。
-
 # 如何安装谷歌三件套
+## 第一种
+使用软件下载谷歌三件套
+如:[Go_4.8.7.apk]https://github.com/sky22333/Google-Play-Store/releases/download/2024.7.7/Go_4.8.7.apk
+HiGo.apk
+leidian.apk
+OurPlay.apk
+su.apk
+
+
 1. google服务框架
 2. google play service
 3. google play store  
