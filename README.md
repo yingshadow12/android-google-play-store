@@ -1,4 +1,7 @@
 # 如何安装谷歌三件套
+1. google服务框架
+2. Google Play 服务
+3. Google Play 商店
 # 第一种
 使用软件下载谷歌三件套
 如:[Go_4.8.7.apk](https://github.com/sky22333/Google-Play-Store/releases/download/2024.7.7/Go_4.8.7.apk) 
